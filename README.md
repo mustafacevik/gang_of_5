@@ -1,14 +1,19 @@
 # gang_of_5
-Common Repository for Gange of 5 Group
+## Common Repository for Gange of 5 Group
 ####### MustafaFinalReadME.start##############
-I created website and named M tech solution.I used Bootstrap,Css,Html,d3js. My project file name as it shows on here <TITLE>BootsrapMustafa</TITLE> I used NavbarMenu and added dropdown-menu. Home For the Home page; I did Header section to explain the company title. I put icon on the browser section
+I created website and named M tech solution.I used Bootstrap,Css,Html,d3js. My project file name as it shows on here <TITLE>BootsrapMustafa</TITLE> 
+I used NavbarMenu and added dropdown-menu. Home For the Home page; 
+I did Header section to explain the company title. I put icon on the browser section
 My code is :
 <link rel="shortcut icon" href="https://cdn0.iconfinder.com/data/icons/ringtone-music-instruments/512/letter-m-latin-key-512.png">
 
 I also created carousel-indicators to looks good. I added footer section as well and Hover effects. I added search bar and email section on the home page.
-For the Contact Page; Contact I used my contact information and also used image too.
+For the Contact Page; 
+Contact I used my contact information and also used image too.
 
-History For the History page; I created Data threee for the company information. And Add Account type
+History For the History page;
+I created Data threee for the company information.
+And Add Account type
 
 Account Type
 Business Personal
